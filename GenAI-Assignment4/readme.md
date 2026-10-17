@@ -60,6 +60,3 @@ I created a dictionary of product prices and applied a discount entered by the u
 After completing this assignment, I learned how to store data in text files, read saved data, append new records, and generate a simple sales report using Python.
 
 This assignment helped me practise the basics of Python file handling.
-
-
-Github link : 
